@@ -1,0 +1,27 @@
+Outlier Detection Report
+=======================
+
+Top 3 Outliers for APC:
+                                    PU-Name  APC  APC_Avg_Neighbor_Votes  APC_Outlier_Score
+OTENUBI OGIDAN ST. BETWEEN HOUSE NOS. 1 & 3  148                     0.0              148.0
+                               3, AMU ST. I  164                    16.0              148.0
+                               3, AMU ST. I  164                    16.0              148.0
+
+Top 3 Outliers for PDP:
+                        PU-Name  PDP  PDP_Avg_Neighbor_Votes  PDP_Outlier_Score
+UNDER MANGO TREE JAVIE JUNCTION   67                     1.0               66.0
+UNDER MANGO TREE JAVIE JUNCTION   67                     2.0               65.0
+UNDER MANGO TREE JAVIE JUNCTION   67                     5.0               62.0
+
+Top 3 Outliers for LP:
+                                     PU-Name  LP  LP_Avg_Neighbor_Votes  LP_Outlier_Score
+JUNCTION OF SUNDAY AGHEDO/ HAKEEM DOSUMU STR 398                    2.0             396.0
+        20, ALH. SULE OKINN ST. MOSAFEJO OJO 386                    0.0             386.0
+        20, ALH. SULE OKINN ST. MOSAFEJO OJO 386                    6.0             380.0
+
+Top 3 Outliers for NNPP:
+                         PU-Name  NNPP  NNPP_Avg_Neighbor_Votes  NNPP_Outlier_Score
+ADEYEMOYE STREET HOUSE 3/5 IKOSI    13                      0.0                13.0
+ADEYEMOYE STREET HOUSE 3/5 IKOSI    13                      0.0                13.0
+ADEYEMOYE STREET HOUSE 3/5 IKOSI    13                      0.0                13.0
+
